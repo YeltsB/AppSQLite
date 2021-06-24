@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSQLite</string>
+    <string name="app_nombres">Nombres</string>
+    <string name="app_apellidos">Apellidos</string>
+    <string name="app_edad">Edad</string>c
+    <string name="app_correo">Correo</string>
+
+
+</resources>

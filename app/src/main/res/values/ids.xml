@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearlayout2" type="id" />
+    <item name="txtcid" type="id" />
+    <item name="btnbuscar" type="id" />
+    <item name="txtcnombres" type="id" />
+    <item name="txtcapellidos" type="id" />
+    <item name="txtccorreo" type="id" />
+    <item name="txtcdireccion" type="id" />
+    <item name="txtcedad" type="id" />
+    <item name="linearlayout3" type="id" />
+    <item name="btneliminar" type="id" />
+    <item name="btnactualizar" type="id" />
+</resources>
